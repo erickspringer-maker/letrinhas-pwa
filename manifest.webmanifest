@@ -1,0 +1,30 @@
+{
+  "name": "Letrinhas do Bê",
+  "short_name": "Letrinhas",
+  "description": "Jogos de letras e números para aprender brincando, com voz e escrita com o dedo.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFC83D",
+  "theme_color": "#FFC83D",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
